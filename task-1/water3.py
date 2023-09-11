@@ -1,4 +1,4 @@
- def initial_state():
+def initial_state():
     return (8, 0, 0)
 
 def is_goal(s):
